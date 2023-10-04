@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\bin\Debug\net6.0-windows\Cola_prioridad.exe
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\bin\Debug\net6.0-windows\Cola_prioridad.deps.json
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\bin\Debug\net6.0-windows\Cola_prioridad.runtimeconfig.json
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\bin\Debug\net6.0-windows\Cola_prioridad.dll
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\bin\Debug\net6.0-windows\Cola_prioridad.pdb
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.Form1.resources
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.dll
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\refint\Cola_prioridad.dll
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.pdb
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\Cola_prioridad.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\final\Cola_prioridad\Cola_prioridad\obj\Debug\net6.0-windows\ref\Cola_prioridad.dll
